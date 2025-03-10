@@ -1,6 +1,6 @@
 # FoodDeliveryApp
 
-# Food Delivery Web Application
+
 
 ## Overview
 This is a full-stack web application for a food delivery service, allowing customers to browse menus, place orders, and track their delivery. The system includes role-based functionalities for customers, restaurant admins, delivery agents, and a super admin.
